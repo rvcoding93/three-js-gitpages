@@ -4,10 +4,6 @@
     left: 0;
   }
 
-main{
-  position: absolute;
-}
-
 @import url("https://use.typekit.net/jmk3xov.css");
 
 canvas {
@@ -89,3 +85,7 @@ canvas {
   .left {
     grid-column: 6 / 12;
   }
+  
+
+
+
